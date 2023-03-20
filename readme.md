@@ -1,7 +1,3 @@
-<a href="https://youtu.be/BcWD-M2PJ-8" target="_blank">
-  <img width="600" src="./assets/cover.png" alt="How to build a chat using Lambda + WebSocket + API Gateway? (nodejs)" />
-</a>
-
 # Description
 
 Source code for the reactjs client from the screencast <a href="https://youtu.be/BcWD-M2PJ-8" target="_blank">How to build a chat using Lambda + WebSocket + API Gateway? (nodejs)</a>
