@@ -14,5 +14,3 @@ The backend lambda code is [here](https://github.com/alexkrkn/lambda-websocket-s
 - copy the websocket url <a href="https://youtu.be/BcWD-M2PJ-8?t=1103">as described</a> in the video to [this constant](src/App.tsx#L4)
 - run `npm run dev` 🚀
 
-
-Don't forget to <a href="https://www.youtube.com/bitesizeacademy?sub_confirmation=1">subscribe</a>
